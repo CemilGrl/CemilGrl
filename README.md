@@ -1,5 +1,5 @@
 # 👋🏻 Hi, I'am CemilGrl!
-  
+Discord bot developer , turkish student and youtuber. <a href="https://www.tokyocode.xyz/" rel="nofollow">Tokyo Code</a> owner.
  ```javascript
 const profile = {
   username: 'CemilGrl',
