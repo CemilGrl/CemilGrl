@@ -1,5 +1,16 @@
 <div align="center">
 <h2> Hi Evrivan My name is CemilGrl!
+  ```javascript
+const profile = {
+  username: 'CemilGrl',
+  age: 20,
+  instagram: '@cemilgrl'
+  twitter: '@CemilGrl'
+}
+if ( profile.username == 'CemilGrl' ) {
+  console.log("Yup, that's me!");
+}
+```
 </div>
 
 <div align="center" width="50">
