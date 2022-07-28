@@ -1,9 +1,10 @@
 # 👋🏻 Hi, I'am CemilGrl!
-Discord bot developer , turkish student and youtuber. <a href="https://www.tokyocode.xyz/" rel="nofollow">Tokyo Code</a> owner.
+Discord bot developer, roleplayer and <a href="https://linktr.ee/phoenixrpg" rel="nofollow">⅌hoenix RPG</a> owner.
  ```javascript
 const profile = {
   username: 'CemilGrl',
   age: 20,
+  rpg: "⅌hoenix"
   instagram: '@cemilgrl',
   twitter: '@CemilGrl'
 }
