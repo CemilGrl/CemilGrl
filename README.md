@@ -1,10 +1,4 @@
-<div align="center">
-<h2> Hi Evrivan My name is CemilGrl!
-</div>
-
-<div align="center" width="50">
-
-</div>
+# 👋🏻 Hi, I'am CemilGrl!
   
  ```javascript
 const profile = {
