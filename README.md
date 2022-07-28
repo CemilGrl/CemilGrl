@@ -26,4 +26,3 @@ if ( profile.username == 'CemilGrl' ) {
  # 📊 Github Stats
 <img height="140px" src="https://github-readme-stats.vercel.app/api?username=CemilGrl&show_icons=true&locale=tr&theme=github_dark"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CemilGrl&layout=compact&show_icons=true&locale=tr&theme=github_dark"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CemilGrl&repo=texas&show_icons=true&locale=tr&theme=github_dark"/>
