@@ -24,4 +24,6 @@ if ( profile.username == 'CemilGrl' ) {
 [![Discord Presence](https://lanyard.cnrad.dev/api/378974293507440640)](https://discord.com/users/378974293507440640)
 
  # 📊 Github Stats
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=CemilGrl&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="CemilGrl's Github Stats">
+<img height="140px" src="https://github-readme-stats.vercel.app/api?username=CemilGrl&show_icons=true&locale=tr&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CemilGrl&layout=compact&show_icons=true&locale=tr&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CemilGrl&repo=texas&show_icons=true&locale=tr&theme=github_dark"/>
