@@ -12,12 +12,12 @@
 const profile = {
   username: 'CemilGrl',
   age: 20,
-  rpg: "⅌hoenix",
+  rpg: '⅌hoenix',
   instagram: '@cemilgrl',
   twitter: '@CemilGrl'
 }
 if ( profile.username == 'CemilGrl' ) {
-  console.log("Yup, that's me!");
+  console.log('Yup, that's me!');
 }
 ```
 
