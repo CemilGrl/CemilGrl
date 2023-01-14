@@ -22,6 +22,3 @@ if ( profile.username == 'CemilGrl' ) {
 ```
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/378974293507440640)](https://discord.com/users/378974293507440640)
-
- # 📊 Github Stats
-<img height="140px" src="https://github-readme-stats.vercel.app/api?username=CemilGrl&show_icons=true&locale=tr&theme=github_dark"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CemilGrl&layout=compact&show_icons=true&locale=tr&theme=github_dark"/>
