@@ -1,5 +1,5 @@
- <h1 align="center">Hi 👋, I'm CemilGrl</h1>
-<h3 align="center">Discord bot developer, roleplayer and <a href="https://linktr.ee/phoenixrpg" rel="nofollow">⅌hoenix RPG</a> owner.</h3>
+ <h1 align="center">Hi 👋, I'm ArseN</h1>
+<h3 align="center">Discord bot developer, roleplayer and <a href="https://linktr.ee/phoenixrpg" rel="nofollow">❆ Phoenix RPG</a> owner.</h3>
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-F06529?style=for-the-badge&logo=html5&logoColor=F06529&labelColor=000000">
@@ -10,13 +10,13 @@
 
  ```javascript
 const profile = {
-  username: 'CemilGrl',
+  username: 'ArseN',
   age: 20,
-  rpg: '⅌hoenix',
+  rpg: '❆ Phoenix',
   instagram: '@cemilgrl',
   twitter: '@CemilGrl'
 }
-if ( profile.username == 'CemilGrl' ) {
+if ( profile.username == 'ArseN' ) {
   console.log('Yup, that's me!');
 }
 ```
