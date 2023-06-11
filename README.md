@@ -12,7 +12,6 @@
 const profile = {
   username: 'ArseN',
   age: 20,
-  rpg: '❆ Phoenix',
   instagram: '@cemilgrl',
   twitter: '@CemilGrl'
 }
