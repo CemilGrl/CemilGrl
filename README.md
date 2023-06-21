@@ -20,5 +20,5 @@ if ( profile.username == 'ArseN' ) {
 }
 ```
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/378974293507440640)](https://discord.com/users/378974293507440640)
 [![Discord Presence](https://luppufy.onrender.com/378974293507440640?border=1c0f45)](https://discord.com/users/378974293507440640)
+[![Discord Presence](https://lanyard.cnrad.dev/api/378974293507440640)](https://discord.com/users/378974293507440640)
