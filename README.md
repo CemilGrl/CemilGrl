@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/-CSS-2965F1?style=for-the-badge&logo=css3&logoColor=2965F1&labelColor=000000">
   <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=F0DB4F&labelColor=000000">
   <img src="https://img.shields.io/badge/-Python-2965F1?style=for-the-badge&logo=python&logoColor=2965F1&labelColor=000000">
-<br>
 </div>
  ```javascript
 const profile = {
@@ -19,6 +18,4 @@ if ( profile.username == 'ArseN' ) {
   console.log('Yup, that's me!');
 }
 ```
-<br>
-<img src="https://media.discordapp.net/attachments/1009347936058081301/1131317217640841266/0171865ee0c07ba1fcc1297aef3a3b9c_1.jpg?width=1083&height=606">
 [![Discord Presence](https://lanyard.cnrad.dev/api/378974293507440640)](https://discord.com/users/378974293507440640)
