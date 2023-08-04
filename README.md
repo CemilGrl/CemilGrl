@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm ArseN</h1>
-<h3 align="center">Discord bot developer, roleplayer and <a href="https://linktr.ee/phoenixrpg" rel="nofollow">❆ Phoenix RPG</a> owner.</h3>
+<h3 align="center">Discord bot developer, roleplayer and <a href="https://linktr.ee/phoenixrpg" rel="nofollow">Phoenix RPG</a> owner.</h3>
 <br>
 <img src="https://media.discordapp.net/attachments/1009347936058081301/1131317217640841266/0171865ee0c07ba1fcc1297aef3a3b9c_1.jpg?width=1083&height=606">
 <br>
@@ -13,7 +13,7 @@
  ```javascript
 const profile = {
   username: 'ArseN',
-  age: 20,
+  age: 21,
   instagram: '@cemilgrl',
   twitter: '@CemilGrl'
 }
