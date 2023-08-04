@@ -1,12 +1,5 @@
  <h1 align="center">Hi 👋, I'm ArseN</h1>
 <h3 align="center">Discord bot developer, roleplayer and <a href="https://linktr.ee/phoenixrpg" rel="nofollow">Phoenix RPG</a> owner.</h3>
-<div align="center">
-<img src="https://github.com/ArviSlayer/ArviSlayer/assets/69751083/a1936c9f-6f7d-4ec6-9710-70c791d54c76" width="90%"></div>
-
-#
-
-<img width="30%" align="right" src="https://github.com/ArviSlayer/ArviSlayer/assets/69751083/e8b45dde-4456-4028-aec7-5beb6d5e8b46">
-<div align="left" width="100%">
 <img src="https://media.discordapp.net/attachments/1009347936058081301/1131317217640841266/0171865ee0c07ba1fcc1297aef3a3b9c_1.jpg?width=1083&height=606">
 <br>
 <div align="center">
