@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=F0DB4F&labelColor=000000">
   <img src="https://img.shields.io/badge/-Python-2965F1?style=for-the-badge&logo=python&logoColor=2965F1&labelColor=000000">
 </div>
+
  ```javascript
 const profile = {
   username: 'ArseN',
