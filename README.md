@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm ArseN</h1>
-<h3 align="center">Discord bot developer, roleplayer and <a href="https://phoenixrpg.vercel.app" rel="nofollow">Phoenix RPG</a> owner.</h3>
+<h3 align="center">Fullstack developer and roleplayer.
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-F06529?style=for-the-badge&logo=html5&logoColor=F06529&labelColor=000000">
@@ -11,9 +11,7 @@
  ```javascript
 const profile = {
   username: 'ArseN',
-  age: 21,
-  instagram: '@cemilgrl',
-  twitter: '@CemilGrl'
+  age: 22
 }
 if ( profile.username == 'ArseN' ) {
   console.log('Yup, that's me!');
