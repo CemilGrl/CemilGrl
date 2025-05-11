@@ -10,12 +10,13 @@
 
  ```javascript
 const profile = {
-  username: 'ArseN',
+  username: 'cemilgrl',
+  displayname: 'ArseN',
   age: 22
 }
-if ( profile.username == 'ArseN' ) {
-  console.log('Yup, that's me!');
+if ( profile.displayname == 'ArseN' ) {
+  console.log('Yup, that's me! 😋');
 }
 ```
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/378974293507440640)](https://discord.com/users/378974293507440640)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1353021320358527067)](https://discord.com/users/1353021320358527067)
