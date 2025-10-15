@@ -1,6 +1,6 @@
 <!-- PROFIL BANNER -->
 <p align="center">
-  <img src="https://hizliresim.com/5sebwd2" alt="ArseN Banner" width="100%" />
+  <img src="https://i.hizliresim.com/5sebwd2.jpg" alt="ArseN Banner" width="100%" />
 </p>
 
 <!-- KULLANICI ADI VE AÇIKLAMA -->
@@ -15,41 +15,29 @@
 ### 🔗 Bana Ulaş
 <p align="center">
   <a href="https://github.com/ArseN" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://discord.gg/YOUR-DISCORD" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="mailto:arsen@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
----
-
-### 📂 Öne Çıkan Projeler
-<p align="center">
-  <a href="https://github.com/ArseN/discord-rp-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArseN&repo=discord-rp-bot&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/ArseN/economy-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArseN&repo=economy-system&theme=tokyonight" />
-  </a>
+  <a href="https://discord.gg/1354736569696911462" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="mailto:c.gurle@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
 ### ⚙️ GitHub İstatistikleri
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArseN&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CemilGrl&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 💻 Kullandığım Diller
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArseN&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CemilGrl&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🔥 Aktiflik Serisi
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArseN&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CemilGrl&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
