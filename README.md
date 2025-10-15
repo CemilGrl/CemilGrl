@@ -36,7 +36,7 @@
 
 ### 🧰 Kullandığım Teknolojiler
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aoijs,js,nodejs,discordjs,mongodb,html,css,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,discordjs,mongodb,html,css,vscode" />
 </p>
 
 ---
