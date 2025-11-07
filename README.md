@@ -1,6 +1,6 @@
 <!-- PROFIL BANNER -->
 <p align="center">
-  <img src="https://i.hizliresim.com/5sebwd2.jpg" alt="ArseN Banner" width="100%" />
+  <img src="https://i.hizliresim.com/1mkvb0j.jpg" alt="ArseN Banner" width="100%" />
 </p>
 
 <!-- KULLANICI ADI VE AÇIKLAMA -->
@@ -15,7 +15,7 @@
 ### 🔗 Bana Ulaş
 <p align="center">
   <a href="https://github.com/CemilGrl" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://discord.gg/1354736569696911462" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.com/users/1354736569696911462" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
 ---
