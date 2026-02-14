@@ -18,16 +18,20 @@
 
 ---
 
-### ⚙️ GitHub İstatistikleri
+### 📊 GitHub İstatistikleri
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CemilGrl&show_icons=true&theme=tokyonight&locale=tr" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CemilGrl&theme=tokyonight" alt="GitHub Profil Özeti" />
 </div>
 
 ---
 
-### 💻 Kullandığım Diller
+### 💻 Kullandığım Diller & Kodlama Serisi
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CemilGrl&layout=compact&theme=tokyonight&locale=tr" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CemilGrl&theme=tokyonight" alt="Kullanılan Diller" />
+</div>
+<br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CemilGrl&theme=tokyonight&locale=tr&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
