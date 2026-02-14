@@ -10,6 +10,13 @@
 
 <br>
 
+### 🎧 Şu An Ne Dinliyorum?
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=SENIN_UID_KODUN&cover_image=true&theme=novatimo&show_offline=true&background_color=1a1b26&font_color=c0caf5">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=SENIN_UID_KODUN&cover_image=true&theme=novatimo&show_offline=true&background_color=1a1b26&font_color=c0caf5" />
+  </a>
+</div>
+
 ### 🔗 Bana Ulaş
 <div align="center">
   <a href="https://github.com/CemilGrl" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
